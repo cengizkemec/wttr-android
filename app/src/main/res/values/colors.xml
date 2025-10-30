@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#121212</color>
+    <color name="ic_launcher_background">#121212</color>
+    <color name="wttr_primary">#B71C1C</color>
+    <color name="wttr_secondary">#CFD8DC</color>
+</resources>

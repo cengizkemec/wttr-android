@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.WTTR" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_gray</item>
+        <item name="android:navigationBarColor">@color/dark_gray</item>
+    </style>
+    <!-- Splash theme for Android 12+ -->
+    <style name="Theme.WTTR.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/wttr_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.WTTR</item>
+    </style>
+</resources>

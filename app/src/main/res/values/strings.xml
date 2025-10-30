@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WTTR</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="open_in_browser">Tarayıcıda Aç</string>
+    <string name="notification_channel_name">WTTR Bildirimleri</string>
+    <string name="notification_channel_desc">Yeni konu ve içerik bildirimleri</string>
+    <string name="new_post_title">Yeni gönderi</string>
+</resources>
